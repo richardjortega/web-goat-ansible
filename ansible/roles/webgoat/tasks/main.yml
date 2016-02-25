@@ -1,0 +1,8 @@
+---
+- name: be sure java is installed
+  become: true
+  yum: name=java-1.8.0-openjdk state=latest
+
+- name: download webgoat jar
+  get_url: url=https://s3.amazonaws.com/webgoat-war/webgoat-container-7.0.1-war-exec.jar
+           dest=/home/vagrant/webgoat-container-7.0.1-war-exec.jar
