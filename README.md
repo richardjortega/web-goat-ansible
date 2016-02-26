@@ -6,8 +6,7 @@
 * VirtualBox - https://www.virtualbox.org/ (or your preferred Vagrant provider)
 * Ansible - https://www.ansible.com/
 
-
-    pip install ansible
+        pip install ansible
 
 ## Build WebGoat VM
 
