@@ -2,9 +2,10 @@
 
 ## Requirements
 
-* Vagrant - https://www.vagrantup.com/
+* Vagrant - https://www.vagrantup.com/docs/installation/
 * VirtualBox - https://www.virtualbox.org/ (or your preferred Vagrant provider)
 * Ansible - https://www.ansible.com/
+
 
     pip install ansible
 
