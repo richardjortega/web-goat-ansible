@@ -27,4 +27,4 @@ download the whole time.
     vagrant ssh
     java -jar webgoat-container-7.0.1-war-exec.jar 
     
-You should be able to see WebGoat running on http://localhost:8080
+You should be able to see WebGoat running on [http://localhost:8080/WebGoat](http://localhost:8080/WebGoat)
